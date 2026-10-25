@@ -1,0 +1,4 @@
+node_modules/
+data/*.log
+.agent_tmp/
+*.log
